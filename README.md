@@ -3,7 +3,7 @@
 <br/>  
 
 
-## My Skill Set  https://github.com/hyjoo1226/hyjoo1226/blob/main/README.md
+## My Skill Set
 <table><tr><td valign="top" width="33%">
 
 
