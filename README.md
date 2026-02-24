@@ -84,7 +84,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats-omega-three-10.vercel.app/api?username=hyjoo1226&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats-omega-three-10.vercel.app/api/top-langs/?username=hyjoo1226&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats-omega-three-10.vercel.app/api/top-langs/?username=hyjoo1226&count_private=true&hide_border=true&layout=compact" align="left" />
 <br />
 
 ----
